@@ -1,3 +1,13 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](./readme-guide.md)
+## Purpose
+Generate a README file by using a command-line application
+
+## Built With
+* Javascript
+* Node.js
+
+## Video
+
+
+
