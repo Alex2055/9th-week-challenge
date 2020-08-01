@@ -1,7 +1,8 @@
-# a
+# Project 1
     
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+ [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 1. [ Description. ](#desc)
 2. [ Installation. ](#instal)
 3. [ Usage. ](#use)
@@ -11,28 +12,29 @@
 7. [ Questions.](#ques)
 <a name="desc"></a>
 ## Description:
-### f
+### Very good project
 <a name="instal"></a>
 ## Installation:
-### h
+### run install.go
 <a name="use"></a>
 ## Usage:
-### d
+### for many things
 <a name="contr"></a>
 ## Contributing:
-### g
+### do it right
 <a name="test"></a>
 ## Tests:
-### d
+### open and test
 <a name="licen"></a>
 ## License:
 
  ### Apache 2.0 License
- ### Boost Software License 1.0
+ ### BSD 3-Clause License
+ ###  BSD 2-Clause License
 <a name="ques"></a>
 ## Questions:
 ### My gitHub profile:
 ## https://github.com/alex2055
 ### Email me:
-## alexfromnashville@gmail.com
+## alex@gmail.com
     
