@@ -89,7 +89,7 @@ const questions = [
 ];
 
 
-
+// create and replace readme file
 const writeFiles = (data) => {
     fs.writeFile('./README.md', data, 'utf8', err => {
         if (err) {
@@ -99,6 +99,7 @@ const writeFiles = (data) => {
 
 }
 
+//ask questions
 const promptUser = () => {
     return inquirer.prompt(
         questions
@@ -111,7 +112,7 @@ const promptUser = () => {
 
 
 
-
+// fill the readme
 
 const generateReadme = answers => {
     const licenses = (answers.license);
@@ -170,21 +171,4 @@ promptUser()
 
 
 
-//promptUser()
-    // .then(readmeData => {
-    //     return generateReadme(readmeData);
-    // })
-    // .then(data => writeFiles(data)
-
-    //     );
-        // function to write README file
-
-
-// function to initialize program
- //function init() {
-
-// }
-
-// // function call to initialize program
-// init();
 
